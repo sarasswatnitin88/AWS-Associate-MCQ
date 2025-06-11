@@ -1,4 +1,4 @@
-# AWS-Associate-MCQ
+9# AWS-Associate-MCQ
 
 AWS Associate & Security Scenario: Investigating a Security Incident
 
@@ -31,241 +31,314 @@ Answer:  Object Storage
 Hint: S3 is designed to store objects like images, backups, and logs.
 
 3. What AWS service allows you to run serverless code?
+   
 Answer:  Lambda
+
 Hint: It runs code without managing servers.
 
-4. Which AWS service provides a fully managed relational database?
+5. Which AWS service provides a fully managed relational database?
+   
 Answer:  RDS
+
 Hint: Managed databases like MySQL and PostgreSQL.
 
-5. What is the primary use of Amazon CloudFront?
+7. What is the primary use of Amazon CloudFront?
 
 Answer:  Content Delivery Network (CDN)
+
 Hint: It speeds up content delivery globally.
 
 5. Which service enables private connections between VPCs and AWS services?
+   
 Answer: AWS PrivateLink
+
 Hint: Securely connects services inside AWS.
 
-6. What AWS service is used for DNS and domain name management?
+7. What AWS service is used for DNS and domain name management?
 
 Answer:  Route 53
+
 Hint: Named after a common network port.
 
 7. Which storage service is ideal for structured NoSQL databases?
+   
 Answer:  DynamoDB
+
 Hint: Managed NoSQL database service.
 
-8. What AWS service is used for monitoring resources and logs?
+9. What AWS service is used for monitoring resources and logs?
+    
 Answer: CloudWatch
+
 Hint: Watches metrics and logs.
 
-9. Which AWS storage class is best for long-term archival storage?
+11. Which AWS storage class is best for long-term archival storage?
+
 Answer: S3 Glacier
+
 Hint: Cold storage with retrieval delays.
 
-10. What AWS service is used to automate application deployments?
+13. What AWS service is used to automate application deployments?
+    
 Answer:  CodeDeploy
+
 Hint: Helps deploy applications automatically.
 
-11. Which database service is best for petabyte-scale analytics?
+15. Which database service is best for petabyte-scale analytics?
+    
 Answer: Redshift
+
 Hint: AWS’s data warehouse service.
 
-12. What service helps protect against DDoS attacks?
+17. What service helps protect against DDoS attacks?
+    
 Answer:  Shield
+
 Hint: Specialized in DDoS mitigation.
 
-13. What AWS service offers a managed Kubernetes solution?
+19. What AWS service offers a managed Kubernetes solution?
+    
 Answer:  EKS
+
 Hint: Managed Kubernetes on AWS.
 
-14. Which AWS service is used for Infrastructure as Code (IaC)?
+21. Which AWS service is used for Infrastructure as Code (IaC)?
+    
 Answer: CloudFormation
+
 Hint: Manages AWS resources using templates.
 
-15. Which storage service is designed for file-based workloads?
+23. Which storage service is designed for file-based workloads?
+    
 Answer:  EFS
+
 Hint: Elastic file system for Linux.
 
-16. What AWS service is used to create a virtual private cloud?
+25. What AWS service is used to create a virtual private cloud?
+    
 Answer:  VPC
+
 Hint: Allows network isolation in AWS.
 
-17. What AWS service can be used to manage encryption keys?
+27. What AWS service can be used to manage encryption keys?
+    
 Answer:  KMS
+
 Hint: Manages encryption keys securely.
 
-18. Which AWS service is used for server migration?
+29. Which AWS service is used for server migration?
+    
 Answer:  SMS
+
 Hint: Stands for Server Migration Service.
 
-19. What AWS service provides virtual desktops?
+31. What AWS service provides virtual desktops?
+    
 Answer:  WorkSpaces
+
 Hint: Cloud-based desktop solution.
 
-20. Which AWS service is used to stream real-time data?
+33. Which AWS service is used to stream real-time data?
+    
 Answer:  Kinesis
+
 Hint: Processes large data streams.
 
-21. What AWS service provides compliance auditing and governance?
+35. What AWS service provides compliance auditing and governance?
+    
 Answer:  Config
+
 Hint: Tracks AWS resource configurations.
 
-22. Which service is used for batch processing workloads?
+37. Which service is used for batch processing workloads?
+
 Answer:  AWS Batch
+
 Hint: Runs batch jobs efficiently.
 
-23. What AWS service provides a pay-per-use API Gateway?
+39. What AWS service provides a pay-per-use API Gateway?
 
 Answer: API Gateway
+
 Hint: Manages REST and WebSocket APIs.
 
 24. What AWS service provides distributed denial-of-service (DDoS) protection?
+    
 Answer:  Shield
+
 Hint: AWS’s DDoS protection service.
 
-25. Which AWS service is used to automatically distribute traffic across multiple targets?
+26. Which AWS service is used to automatically distribute traffic across multiple targets?
+    
 Answer:  ELB
+
 Hint: Stands for Elastic Load Balancer.
 
-26. What service allows you to run containers without managing servers?
+28. What service allows you to run containers without managing servers?
+    
 Answer:  Fargate
+
 Hint: Serverless container management.
 
-27. What AWS tool is used to create and manage access policies?
+30. What AWS tool is used to create and manage access policies?
+    
 Answer:  IAM
+
 Hint: Identity and Access Management.
 
-28. What AWS service helps manage machine learning models?
+32. What AWS service helps manage machine learning models?
+    
 Answer:  SageMaker
+
 Hint: Helps train and deploy ML models.
 
-29. What service helps migrate databases to AWS?
+34. What service helps migrate databases to AWS?
+    
 Answer:  DMS
+
 Hint: Stands for Database Migration Service.
 
-30. Which AWS service allows you to securely store credentials and API keys?
+36. Which AWS service allows you to securely store credentials and API keys?
+
 Answer:  Secrets Manager
+
 Hint: Manages sensitive application secrets.
 
-31. What AWS service provides identity and access management?
+38. What AWS service provides identity and access management?
+    
 Answer: IAM
+
 Hint: Manages users, roles, and policies.
 
-32. What AWS service helps detect security anomalies in your AWS account?
+40. What AWS service helps detect security anomalies in your AWS account?
+
 Answer: GuardDuty
+
 Hint: Uses machine learning to detect threats.
 
-33. Which AWS service is used to encrypt stored data?
+42. Which AWS service is used to encrypt stored data?
+    
 Answer: KMS
+
 Hint: Manages encryption keys securely.
 
-34. What AWS service logs all API calls made in an AWS account?
+44. What AWS service logs all API calls made in an AWS account?
+    
 Answer: CloudTrail
+
 Hint: Tracks AWS API activity.
 
-35. What AWS service helps protect applications from SQL injection and XSS attacks?
+46. What AWS service helps protect applications from SQL injection and XSS attacks?
+    
 Answer: WAF
+
 Hint: Web Application Firewall.
 
-36. What AWS service protects against DDoS attacks?
+48. What AWS service protects against DDoS attacks?
+    
 Answer: Shield
+
 Hint: AWS’s DDoS protection service.
 
-37. What AWS service scans your EC2 instances for vulnerabilities?
+50. What AWS service scans your EC2 instances for vulnerabilities?
+    
 Answer: Inspector
+
 Hint: Automated security assessments.
 
-38. Which AWS security service continuously monitors AWS configurations?
+52. Which AWS security service continuously monitors AWS configurations?
+    
 Answer: Config
+
 Hint: Helps with compliance and audits.
 
-39. Which AWS service enables secure secrets management?
+54. Which AWS service enables secure secrets management?
+
 Answer: Secrets Manager
+
 Hint: Stores and rotates API keys securely.
 
-40. What AWS service automatically detects and prevents fraud and abuse?
+56. What AWS service automatically detects and prevents fraud and abuse?
 Answer: Fraud Detector
 Hint: Machine learning for fraud prevention.
 
-41. What AWS service helps classify sensitive data in S3?
+57. What AWS service helps classify sensitive data in S3?
 Answer: Macie
 Hint: Uses AI to detect sensitive data.
 
-42. What AWS security tool provides hardware security modules (HSMs)?
+58. What AWS security tool provides hardware security modules (HSMs)?
 Answer: CloudHSM
 Hint: Dedicated encryption hardware.
 
-43. What AWS service provides single sign-on (SSO) access?
+59. What AWS service provides single sign-on (SSO) access?
 Answer: AWS SSO
 Hint: Centralized login management.
 
-44. What AWS service provides multi-factor authentication (MFA)?
+60. What AWS service provides multi-factor authentication (MFA)?
 Answer: IAM
 Hint: Adds extra login security.
 
-45. What AWS service allows federated access to AWS accounts?
+61. What AWS service allows federated access to AWS accounts?
 Answer: Cognito
 Hint: Identity provider for apps.
 
-46. What AWS service scans S3 buckets for security risks?
+62. What AWS service scans S3 buckets for security risks?
 Answer: Macie
 Hint: AI-powered sensitive data detection.
 
-47. Which AWS security tool allows private network connections to AWS services?
+63. Which AWS security tool allows private network connections to AWS services?
 Answer: PrivateLink
 Hint: Secure VPC-to-service connections.
 
-48. Which service helps you securely manage and rotate encryption keys?
+64. Which service helps you securely manage and rotate encryption keys?
 Answer: KMS
 Hint: Secure key management.
 
-49. Which AWS service automatically remediates security compliance violations?
+65. Which AWS service automatically remediates security compliance violations?
 Answer: Config
 Hint: Ensures compliance with security rules.
 
-50. What AWS service is used for real-time security monitoring?
+66. What AWS service is used for real-time security monitoring?
 Answer: GuardDuty
 Hint: Detects AWS account threats.
 
-51. What AWS feature allows organizations to enforce security policies across accounts?
+67. What AWS feature allows organizations to enforce security policies across accounts?
 Answer: AWS Organizations
 Hint: Centralized security governance.
 
-52. What AWS service is designed for security analytics and threat detection?
+68. What AWS service is designed for security analytics and threat detection?
 Answer: Security Hub
 Hint: Centralized security management.
 
-53. What AWS tool provides compliance reports and certifications?
+69. What AWS tool provides compliance reports and certifications?
 Answer: Artifact
 Hint: Download compliance reports.
 
-54. Which AWS service helps enforce security best practices across AWS resources?
+70. Which AWS service helps enforce security best practices across AWS resources?
 Answer: Security Hub
 Hint: Monitors compliance at scale.
 
-55. Which AWS service blocks malicious IPs automatically?
+71. Which AWS service blocks malicious IPs automatically?
 Answer: WAF
 Hint: Web security firewall.
 
-56. What AWS service prevents brute-force attacks on AWS accounts?
+72. What AWS service prevents brute-force attacks on AWS accounts?
 Answer: GuardDuty
 Hint: Monitors for suspicious activities.
 
-57. What AWS feature allows restricting access based on conditions?
+73. What AWS feature allows restricting access based on conditions?
 Answer: IAM Policies
 Hint: Access control rules.
 
-58. What AWS tool allows for cross-account security auditing?
+74. What AWS tool allows for cross-account security auditing?
 Answer: CloudTrail
 Hint: Tracks AWS API calls.
 
-59. What AWS service provides real-time alerts for suspicious activities?
+75. What AWS service provides real-time alerts for suspicious activities?
 Answer: GuardDuty
 Hint: AI-driven threat detection.
 
-60. What AWS tool allows enforcing fine-grained permissions?
+76. What AWS tool allows enforcing fine-grained permissions?
 Answer: IAM
 Hint: Controls access to AWS resources.
 
