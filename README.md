@@ -1,37 +1,6 @@
 # AWS-Associate-MCQ
 
-``Conversation opened. 1 read message.```
-
-Skip to content
-Using Craw Cyber Security Pvt Ltd Mail with screen readers
-in:sent 
-
-15 of 425
-Completion of Objective
-
-
-Nitin Saraswat <nitinsaraswat@craw.in>
-Attachments
-Sat, May 31, 6:30 PM (11 days ago)
-to Harsh, Anil, Mohit, Mansi
-
-Dear Sir/Mam
-
-I hope you are doing well.
-
- I am reaching out to request the completion of Make a CTF  of AWS  Associate or Security  Questions. Please let me know if any further actions are required from my end to finalize this.
-
-I appreciate your assistance and look forward to your confirmation .Also, Harsh Sir, please let me know if there are any additional updates needed or if any further help is required in this matter.
-
-Looking forward to your response.
-
-Best regards,
-
-
- One attachment
-  •  Scanned by Gmail
 AWS Associate & Security Scenario: Investigating a Security Incident
-
 
 You are an AWS Certified Solutions Architect Associate with security expertise, working for an e-commerce company. A security alert is triggered due to unusual outbound traffic from an EC2 instance.
 
@@ -56,18 +25,20 @@ Monitor continuously with Amazon GuardDuty and CloudWatch.
 
 
 1. What type of storage does Amazon S3 provide?
+   
 Answer:  Object Storage
+
 Hint: S3 is designed to store objects like images, backups, and logs.
 
-2. What AWS service allows you to run serverless code?
+3. What AWS service allows you to run serverless code?
 Answer:  Lambda
 Hint: It runs code without managing servers.
 
-3. Which AWS service provides a fully managed relational database?
+4. Which AWS service provides a fully managed relational database?
 Answer:  RDS
 Hint: Managed databases like MySQL and PostgreSQL.
 
-4. What is the primary use of Amazon CloudFront?
+5. What is the primary use of Amazon CloudFront?
 
 Answer:  Content Delivery Network (CDN)
 Hint: It speeds up content delivery globally.
