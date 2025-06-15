@@ -259,191 +259,267 @@ Answer: Secrets Manager
 Hint: Stores and rotates API keys securely.
 
 56. What AWS service automatically detects and prevents fraud and abuse?
+    
 Answer: Fraud Detector
+
 Hint: Machine learning for fraud prevention.
 
-57. What AWS service helps classify sensitive data in S3?
+58. What AWS service helps classify sensitive data in S3?
+    
 Answer: Macie
+
 Hint: Uses AI to detect sensitive data.
 
-58. What AWS security tool provides hardware security modules (HSMs)?
+60. What AWS security tool provides hardware security modules (HSMs)?
+    
 Answer: CloudHSM
+
 Hint: Dedicated encryption hardware.
 
-59. What AWS service provides single sign-on (SSO) access?
+62. What AWS service provides single sign-on (SSO) access?
+    
 Answer: AWS SSO
+
 Hint: Centralized login management.
 
-60. What AWS service provides multi-factor authentication (MFA)?
+64. What AWS service provides multi-factor authentication (MFA)?
+    
 Answer: IAM
+
 Hint: Adds extra login security.
 
-61. What AWS service allows federated access to AWS accounts?
+66. What AWS service allows federated access to AWS accounts?
+    
 Answer: Cognito
+
 Hint: Identity provider for apps.
 
-62. What AWS service scans S3 buckets for security risks?
+68. What AWS service scans S3 buckets for security risks?
+    
 Answer: Macie
+
 Hint: AI-powered sensitive data detection.
 
-63. Which AWS security tool allows private network connections to AWS services?
+70. Which AWS security tool allows private network connections to AWS services?
+    
 Answer: PrivateLink
+
 Hint: Secure VPC-to-service connections.
 
-64. Which service helps you securely manage and rotate encryption keys?
+72. Which service helps you securely manage and rotate encryption keys?
+    
 Answer: KMS
+
 Hint: Secure key management.
 
-65. Which AWS service automatically remediates security compliance violations?
+74. Which AWS service automatically remediates security compliance violations?
+    
 Answer: Config
+
 Hint: Ensures compliance with security rules.
 
-66. What AWS service is used for real-time security monitoring?
+76. What AWS service is used for real-time security monitoring?
+    
 Answer: GuardDuty
+
 Hint: Detects AWS account threats.
 
-67. What AWS feature allows organizations to enforce security policies across accounts?
+78. What AWS feature allows organizations to enforce security policies across accounts?
+    
 Answer: AWS Organizations
+
 Hint: Centralized security governance.
 
-68. What AWS service is designed for security analytics and threat detection?
+80. What AWS service is designed for security analytics and threat detection?
+    
 Answer: Security Hub
+
 Hint: Centralized security management.
 
-69. What AWS tool provides compliance reports and certifications?
+82. What AWS tool provides compliance reports and certifications?
+    
 Answer: Artifact
+
 Hint: Download compliance reports.
 
-70. Which AWS service helps enforce security best practices across AWS resources?
+84. Which AWS service helps enforce security best practices across AWS resources?
+    
 Answer: Security Hub
+
 Hint: Monitors compliance at scale.
 
-71. Which AWS service blocks malicious IPs automatically?
+86. Which AWS service blocks malicious IPs automatically?
+    
 Answer: WAF
+
 Hint: Web security firewall.
 
-72. What AWS service prevents brute-force attacks on AWS accounts?
+88. What AWS service prevents brute-force attacks on AWS accounts?
+    
 Answer: GuardDuty
+
 Hint: Monitors for suspicious activities.
 
-73. What AWS feature allows restricting access based on conditions?
+90. What AWS feature allows restricting access based on conditions?
+    
 Answer: IAM Policies
+
 Hint: Access control rules.
 
-74. What AWS tool allows for cross-account security auditing?
+92. What AWS tool allows for cross-account security auditing?
+    
 Answer: CloudTrail
+
 Hint: Tracks AWS API calls.
 
-75. What AWS service provides real-time alerts for suspicious activities?
+94. What AWS service provides real-time alerts for suspicious activities?
+    
 Answer: GuardDuty
+
 Hint: AI-driven threat detection.
 
-76. What AWS tool allows enforcing fine-grained permissions?
+96. What AWS tool allows enforcing fine-grained permissions?
+    
 Answer: IAM
+
 Hint: Controls access to AWS resources.
 
 61.Your security team wants to track all API calls in your AWS account. Which service should you use?
+
 Answer: CloudTrail
+
 Hint: Logs AWS API activity.
 
 62.A developer stores API keys in plain text in an S3 bucket. Which service can detect and alert on this?
+
 Answer: Macie
+
 Hint: Detects sensitive data in S3.
 
 63.A company wants to allow temporary AWS console access to an external auditor. Which method should they use?
+
 Answer: IAM Role
+
 Hint: Best for temporary permissions.
 
 64.A developer accidentally makes an S3 bucket public. Which AWS service can detect this?
+
 Answer: AWS Config
+
 Hint: Tracks resource configuration changes.
 
 65.Your company wants to detect unusual login attempts to your AWS account. Which service should you use?
+
 Answer: GuardDuty
+
 Hint: Monitors AWS for threats.
 
 66.You need to scan EC2 instances for security vulnerabilities. Which AWS service should you use?
+
 Answer: Inspector
+
 Hint: Automated security assessments.
 
 67Your company wants to centrally manage security findings across multiple AWS accounts. What should they use?
+
 Answer: Security Hub
+
 Hint: Centralized security management.
 
 68.Your security team wants to restrict outbound traffic from EC2 instances. What should they use?
+
 Answer: NACLs
+
 Hint: Network-level traffic filtering.
 
 69.Your team wants to block IP addresses associated with malicious activity. What should they use?
+
 Answer: WAF
+
 Hint: Can block IPs at the network level.
 
 70.Your security team wants to ensure that data is encrypted before being sent to S3. What should they do?
+
 Answer: Use Server-Side Encryption
+
 Hint: Ensures S3 data is encrypted.
 
 80.Which AWS service provides DDoS protection?
 
 Shield  
+
 (Hint: Protects against DDoS)
 
 81.Which AWS service helps detect security threats?
 
 GuardDuty 
+
 (Hint: Monitors for threats)
 
 82.Which AWS service manages encryption keys?
 
 KMS 
+
 (Hint: Manages keys)
 
 83.Which AWS feature allows setting security rules at the subnet level?
 
 NACL 
+
 (Hint: Network level rules)
 
 84.Which AWS service helps classify and protect sensitive data?
 
 Macie 
+
 (Hint: Finds PII)
 
 85.Which AWS service provides centralized logging?
 
 CloudTrail 
+
 (Hint: Tracks API activity)
 
 86.Which AWS service scans for vulnerabilities in EC2 instances?
 
 Inspector 
+
 (Hint: Security assessment)
 
 87.Which AWS feature controls user access permissions?
 
-IAM 
+IAM
+
 (Hint: Manages identities)
 
 88.Which AWS service provides a Web Application Firewall?
+
 WAF 
+
 (Hint: Protects web apps)
 
 89.Which AWS feature acts as a firewall for EC2 instances?
 
 Security Group 
+
 (Hint: Instance-level protection)
 
 90.Which AWS service helps securely store and retrieve credentials?
 
 Secrets Manager
+
 (Hint: Stores secrets)
 
 91.Which AWS service provides hardware-based key storage?
 
 CloudHSM 
+
 (Hint: Dedicated hardware security)
 
 92.Which AWS security service continuously monitors compliance?
 
 Config 
+
 (Hint: Tracks resource changes)
 
 
